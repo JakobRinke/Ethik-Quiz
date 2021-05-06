@@ -1,0 +1,121 @@
+
+:root
+{
+    color: white;
+    font-size: 2vh;
+}
+
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(-45deg, #5281ee, #6a3ce7, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 120s ease infinite;
+    text-align: center;
+}
+
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+.headline
+{
+    padding-top: 6vh;
+    font-size: 3rem;
+}
+
+.Question
+{
+    border-width: 2px;
+    font-size: 2rem;
+    border-style: solid;
+    width: 70%;
+    border-color: rgba(255, 255, 255, 0.4);
+    margin-left:  16%;
+    margin-top: 4%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AnswerDiv
+{
+    width: 80%;
+    margin-top: 2.5%;
+    margin-left: 10%;
+    height: 25%;
+}
+
+.Answer
+{
+    float: left;
+    border-width: 2px;
+    font-size: 2.4rem;
+    border-style: solid;
+    width: 40%;
+    border-color: rgba(255, 255, 255, 0.4);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7.5%;
+    transition: 500ms all;
+}
+
+
+
+button
+{
+    border-width: 2px;
+    font-size: 2rem;
+    border-style: solid;
+    width: 71%;
+    color: white;
+    border-color: rgba(255, 255, 255, 0.4);
+    margin-left:  3%;
+    margin-top: 5%;
+    height: 10%;
+    background-color: transparent;
+    transition: 300ms all;
+}
+
+button:active
+{
+    color: #5281ee;
+    background-color: white;
+    transform: scale(1.1);
+}
+
+.score
+{
+    position: fixed;
+    width: 80vw;
+    height:50vh;
+    font-size: 3rem;
+    background-color:  #4165bb;
+    top: 25vh;
+    left: 10vw;
+    padding-top: 4%;
+    opacity: 0;
+    pointer-events: none;
+    transition: 500ms all;
+}
