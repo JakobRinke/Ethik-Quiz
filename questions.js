@@ -23,14 +23,10 @@ const questionsRaw = [
     {Question:"Der Mensch ist weder gut noch böse", Answer: 2},
     {Question:"Durch die Gesellschaft bekommt der Mensch das Verlangen nach Macht", Answer: 2},
     {Question:"Gesellschaften funktionieren nur, wenn Menschen sich gegenseitig helfen und verteidigen", Answer: 2},
-    {Question:"Einne Gesellschaft ist eine Kollektivperson", Answer: 2},
+    {Question:"Eine Gesellschaft ist eine Kollektivperson", Answer: 2},
     {Question:"Der Mensch kümmert sich normalerweise nur um seine Selbsterhaltung", Answer: 2}
 
     
-   /* {Question:"Alle Menschen sind gleich", Answer: 1},
-    {Question:"Alle Menschen sind gleich", Answer: 1},
-    {Question:"Alle Menschen sind gleich", Answer: 1},
-    */
 
 ]
 
