@@ -8,7 +8,6 @@ const questionsRaw = [
     {Question:"Lebte von 1588 bis 1679", Answer: 1},
     {Question:"Im Naturrecht herscht Krieg - alle gegen alle", Answer: 1},
     {Question:"Man muss dem Frieden nachjagen", Answer: 1},
-    {Question:"Zur Gründung eines Staates müssen Menschen auf ihre Freiheiten verzichten", Answer: 1},
     {Question:"Der Mensch ist ein räuberisches, kluges, gefährliches, mächtigstes Tier", Answer: 1},
 
 
