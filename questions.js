@@ -19,7 +19,7 @@ const questionsRaw = [
     {Question:"Es gibt keine sozialen Beziehungen im Naturzustand", Answer: 2},
     {Question:"Im Naturzustand sind alle Menschen gleichgestellt und haben unbegrenzte Willenskraft", Answer: 2},
     {Question:"Der Unterschied zwischen Mensch und Tier ist, dass der Mensch frei handeln kann", Answer: 2},
-    {Question:"Die Natürlichkeit des Menschen wird durch keine Vernumpft gebrochen", Answer: 2},
+    {Question:"Die Natürlichkeit des Menschen wird durch keine Vernumft gebrochen", Answer: 2},
     {Question:"Der Mensch ist weder gut noch böse", Answer: 2},
     {Question:"Durch die Gesellschaft bekommt der Mensch das Verlangen nach Macht", Answer: 2},
     {Question:"Gesellschaften funktionieren nur, wenn Menschen sich gegenseitig helfen und verteidigen", Answer: 2},
