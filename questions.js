@@ -3,7 +3,7 @@ const questionsRaw = [
     {Question:"Menschen sind von Natur aus unkommunikativ und kriegsbereit", Answer: 1},
     {Question:"Konkurenzdenken, Misstrauen und Rumgier liegen in der Natur", Answer: 1},
     {Question:"Jeder Mensch hat immer Angst um sein Leben und sein Eigentum", Answer: 1},
-    {Question:"Im Naturzustand besitzt man etwas nur so lange, bis jemand anderes es einem Weg nimmt", Answer: 1},
+    {Question:"Im Naturzustand besitzt man etwas nur so lange, bis jemand anderes es einem weg nimmt", Answer: 1},
     {Question:"Das Naturrecht ist die Freiheit, alles für seine Selbsterhaltung zu tun", Answer: 1},
     {Question:"Lebte von 1588 bis 1679", Answer: 1},
     {Question:"Im Naturrecht herscht Krieg - alle gegen alle", Answer: 1},
